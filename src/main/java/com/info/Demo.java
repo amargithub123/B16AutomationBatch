@@ -12,5 +12,7 @@ public class Demo {
 	public void m2() {
 		System.out.println("Fine");
 	}
-
+	public void m3() {
+		System.out.println("Fine");
+	}
 }
